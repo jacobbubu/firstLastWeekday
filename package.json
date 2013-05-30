@@ -1,0 +1,24 @@
+{
+  "author": "rong.shen@gmail.com", 
+  "dependencies": {
+  }, 
+  "description": "Get the date of first/last weekday from a specified date", 
+  "devDependencies": {
+    "grunt": "*", 
+    "grunt-contrib-clean": "*", 
+    "grunt-contrib-coffee": "*"
+  }, 
+  "engines": {
+    "node": ">=0.6.0"
+  }, 
+  "homepage": "", 
+  "keywords": "", 
+  "main": "/lib/index.js", 
+  "name": "first-last-weekday", 
+  "repository": {
+    "type": "git", 
+    "url": "git://github.com/jacobbubu/firstLastWeekday.git"
+  },
+  "version": "0.0.1",
+  "license": "MIT"
+}
